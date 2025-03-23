@@ -1,3 +1,3 @@
 # Assignment History
 
-## Last change assignment: chapter 12, still in progress
+## Last change assignment: chapter 4, in progress
