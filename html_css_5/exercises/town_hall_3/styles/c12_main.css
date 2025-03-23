@@ -145,6 +145,10 @@ tfoot {
 	text-align: center;
 }
 
+figure tbody td:nth-child(even) {
+	text-emphasis: bold;
+}
+
 
 
 /* the styles for the article */
