@@ -112,6 +112,44 @@ section ul {
 section li {
 	padding-bottom: .35em;
 }
+/* styles for le table. in progress */
+#redborder {
+	border-top: .2em solid #800000;
+	border-bottom: .2em solid #800000;
+}
+#redtop {
+	border-top: .2em solid #800000;
+	
+}
+
+th.center, td.center{
+	text-align: center;
+}
+table {
+	border-collapse: collapse; }
+
+td {
+padding: .2em .7em;
+text-align: left;
+}
+
+th.left, td.left {
+	 text-align: left; 
+}
+
+tfoot { 
+	font-weight: bold;
+	text-align: right;
+}
+#textleft {
+	text-align: center;
+}
+
+figure tbody td:nth-child(even) {
+	text-emphasis: bold;
+}
+
+
 
 /* the styles for the article */
 article {
