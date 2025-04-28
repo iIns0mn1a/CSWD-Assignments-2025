@@ -47,6 +47,25 @@ fieldset {
 	padding-left: 1em;
 	padding-right: 1em;
 }
+
+#radio label{
+	float: none;
+	/* makes labels stop floating, so they don't go to the left, if they go to the right they break cuz of margins */
+}
+
+#radio input{
+	width: auto;
+	margin-left: 3em;
+}
+
+#cards #month
+{
+	width: 7em;
+}
+#cards #year{
+	width: 5em;
+}
+
 legend {
     color: black;
     font-weight: bold;
